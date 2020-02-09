@@ -21,7 +21,7 @@ def convert_pr_units(darray):
 
 
 def create_plot(clim, model_name, season, gridlines=False, levels=None):
-    """Plot the precipitation climatology.
+    """Plot the precipitation climatology, test script.
     
     Args:
       clim (xarray.DataArray): Precipitation climatology data
